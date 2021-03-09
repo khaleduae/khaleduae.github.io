@@ -1,0 +1,15 @@
+
+Package: com.cpdigitaldarkroom.barmoji
+Version: 2020.5
+Architecture: iphoneos-arm
+Maintainer: خالد المنصوري
+Depends: mobilesubstrate, preferenceloader 
+Conflicts: Compatible with iOS 10, 11, 12 & 13 & 14
+Filename: debs/5eef6d99249515001a57cbfc.deb
+Size: 59518
+MD5sum: 51bf837ea3c5b847277cae576be9370b
+SHA1: 3966284cc458cf37ba4e741fcfebebea65ca275f
+SHA256: c64dabd2330a3d4d6b6ce54b671e9ceeeb727cd28038508d113389b49ba755f2
+Section: Tweaks
+Depiction: https://khaleduae.github.io
+Name: barmoji
